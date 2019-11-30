@@ -1,2 +1,4 @@
 [submodule "resume/git-cloned/resume_junior"]
 	url = https://github.com/luuquocvinh/resume_junior
+[submodule "resume/git-cloned/resumeHP"]
+	url = https://github.com/hp-hub/resumeHP
